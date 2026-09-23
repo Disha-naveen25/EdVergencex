@@ -1,4 +1,4 @@
-````markdown
+
 #  Product Explorer – API Based Product Dashboard
 
 Product Explorer is a beginner-friendly Streamlit mini project that retrieves product information from a public REST API, processes the JSON response using Pandas, filters products based on user-selected conditions, generates category-wise statistics, and allows the processed data to be downloaded as CSV files.
