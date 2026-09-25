@@ -1,4 +1,6 @@
-#  TutorBot : This was a small task given during my training period conducted by EdVergenceX
+#  TutorBot
+
+This was a small task given during my training period conducted by EdVergenceX
 
 ### AI-Powered Personal Tutor using NexusAI and Gradio
 
